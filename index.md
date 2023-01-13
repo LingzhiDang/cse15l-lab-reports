@@ -1,3 +1,2 @@
-public static void main{
-
-}
+Hello World!
+¡Hola Mundo!

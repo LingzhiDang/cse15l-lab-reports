@@ -30,6 +30,7 @@ Typing “Yes” to connect and then type your password
 
 If it is successful, you will see something like that.
 ![image](https://user-images.githubusercontent.com/59113479/212489790-dcc79327-55c1-46c7-a250-c042e82e9e08.png)
+
 (It is not my first time to connect, so I do not need to give the authenticity)
 
 Then you need to type your own password for your student account. You will not see what you 

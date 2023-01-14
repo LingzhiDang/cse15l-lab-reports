@@ -26,6 +26,7 @@ Then you can try to open the terminal and use command “ssh cs15lwi23avg@ieng6.
 Notice: You need to change “avg” here to your own letter in course-specific account. The format is your own account name + “@ieng6.ucsd.edu”. You many copy the command in sample and change the “avg” part and paste to the terminal.
 
 Notice: you need to give the authenticity to host because it’s the first time you connect. You will see 
+
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
 Typing “Yes” to connect and then type your password

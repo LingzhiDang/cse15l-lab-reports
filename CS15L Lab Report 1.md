@@ -1,4 +1,5 @@
 •	Installing VScode
+
 To install VScode, you need firstly searched VScode on Google or go to https://code.visualstudio.com/Download and select the right version for your PC(for example, my PC is windows x64). 
 
 ![image](https://user-images.githubusercontent.com/59113479/212489687-48b9179f-ad63-4894-92fc-4751660d129d.png)
@@ -14,11 +15,14 @@ Firstly, If you use windows PC, you need to install a git push to start remote c
 Git: https://gitforwindows.org/
 Here is a good guidance I used to invite git bash to vscode
 https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994
+
 Basically, you need to open the terminal and command palate at setting, and then type “Select default options”. Choose Git bash and select bash at your terminal then restart your VScode to check Whether the bash icon is there.
 ![image](https://user-images.githubusercontent.com/59113479/212489781-a9a13c3c-00a8-4fe2-af63-0f3328cafabd.png)
 ![image](https://user-images.githubusercontent.com/59113479/212489783-aa594846-6484-4609-9eab-cc0b9a1e5845.png)
+
 Then you can try to open the terminal and use command “ssh cs15lwi23avg@ieng6.ucsd.edu” in the terminal to invoke the remote connect and type your password
 Notice: You need to change “avg” here to your own letter in course-specific account. The format is your own account name + “@ieng6.ucsd.edu”. You many copy the command in sample and change the “avg” part and paste to the terminal.
+
 Notice: you need to give the authenticity to host because it’s the first time you connect. You will see 
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
@@ -27,6 +31,7 @@ Typing “Yes” to connect and then type your password
 If it is successful, you will see something like that.
 ![image](https://user-images.githubusercontent.com/59113479/212489790-dcc79327-55c1-46c7-a250-c042e82e9e08.png)
 (It is not my first time to connect, so I do not need to give the authenticity)
+
 Then you need to type your own password for your student account. You will not see what you 
 are typing here. Please make sure you type your password correctly without any change and press
 “enter” when you finish. If you connect successfully, you will see something like this.

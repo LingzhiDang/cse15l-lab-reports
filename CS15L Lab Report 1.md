@@ -13,6 +13,7 @@ This is the default situation of VScode, if you can open your VScode an see some
 
 Firstly, If you use windows PC, you need to install a git push to start remote connect.
 Git: https://gitforwindows.org/
+
 Here is a good guidance I used to invite git bash to vscode
 https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994
 

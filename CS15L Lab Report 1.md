@@ -9,6 +9,7 @@ This is the default situation of VScode, if you can open your VScode an see some
 ![image](https://user-images.githubusercontent.com/59113479/212489754-bea98b1c-f9c1-4325-b1fa-f05223f80570.png)
 
 •	Remotely Connecting
+
 Firstly, If you use windows PC, you need to install a git push to start remote connect.
 Git: https://gitforwindows.org/
 Here is a good guidance I used to invite git bash to vscode

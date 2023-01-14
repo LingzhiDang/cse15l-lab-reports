@@ -40,6 +40,7 @@ are typing here. Please make sure you type your password correctly without any c
 Congratulation! That means you connect successfully.
 
 •	Trying Some Commands
+
 Now try some commands in terminal. Here are some examples of commands for you.
 cd
 cd~

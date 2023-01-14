@@ -62,5 +62,6 @@ There is a remote file,
 if you type the last command and get a sentence, it means you load the file.
 ![image](https://user-images.githubusercontent.com/59113479/212489819-b81b14dc-55e0-4226-bb91-cf6e07898b4c.png)
 
+Congraduation! Here are all you need to do for remotely connecting part.Good job!
 
 

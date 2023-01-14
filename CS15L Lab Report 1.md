@@ -3,7 +3,6 @@
 To install VScode, you need firstly searched VScode on Google or go to ![image](https://user-images.githubusercontent.com/59113479/212490627-7de509e9-7fb9-44c5-8d2e-f92b8188fc2f.png)
 and select the right version for your PC(for example, my PC is windows x64). 
 
-![image](https://user-images.githubusercontent.com/59113479/212489687-48b9179f-ad63-4894-92fc-4751660d129d.png)
 
 Then you need to follow the install procedures and you may change the default options for your own considerations and needs. 
 (If space is available, you may select C:\\ for windows to install to avoid some unknown errors).
